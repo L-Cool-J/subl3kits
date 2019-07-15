@@ -20,7 +20,7 @@
   { "caption": "duplicate ext",
     "command": "duplicate_ext"
   },
-  { "caption": "close the same as this",
+  { "caption": "close tabs as same title of this",
     "command": "close_same"
   },
   { "caption": "insert now",
