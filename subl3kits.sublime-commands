@@ -1,0 +1,29 @@
+[
+  { "caption": "B64EncGbk",
+    "command": "b64encgbk"
+  },
+  { "caption": "B64DecGbk",
+    "command": "b64decgbk"
+  },
+  { "caption": "insert seq number",
+    "command": "seq_number"
+  },
+  { "caption": "UsEdit",
+    "command": "us_edit"
+  },
+  { "caption": "close match",
+    "command": "close_match"
+  },
+  { "caption": "duplicate",
+    "command": "duplicate"
+  },
+  { "caption": "duplicate ext",
+    "command": "duplicate_ext"
+  },
+  { "caption": "close the same as this",
+    "command": "close_same"
+  },
+  { "caption": "insert now",
+    "command": "now"
+  }
+]
