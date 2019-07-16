@@ -7,4 +7,4 @@ Features
 - 关闭与输入匹配的所有tab
 - ...
 
-![FeatureMap](http://ww1.sinaimg.cn/large/71e00c7bly1g51t6cpo3fg20o60esx6f.gif)
+![FeatureMap](http://ww3.sinaimg.cn/large/71e00c7bly1g51t7rpi5wg20nw0eskiq.gif)
