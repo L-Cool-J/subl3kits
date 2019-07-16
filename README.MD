@@ -7,4 +7,8 @@ Features
 - 关闭与输入匹配的所有tab
 - ...
 
+Install
+-------
+  直接克隆到Packages(~/.config/sublime-text-3/Packages)中即可
+
 ![FeatureMap](http://ww3.sinaimg.cn/large/71e00c7bly1g51t7rpi5wg20nw0eskiq.gif)
